@@ -439,7 +439,8 @@ The project was developed using the following workflow:
 
 # 11. Project Structure
 
-Data_AI_Banking/
+```text
+smartbank-360/
 │
 ├── data/
 │   └── raw/
@@ -468,8 +469,8 @@ Data_AI_Banking/
 ├── docs/
 │
 ├── .gitignore
-│
 └── README.md
+```
 
 # 12. Skills Demonstrated
 
